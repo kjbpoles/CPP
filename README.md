@@ -1,6 +1,6 @@
 # CPP
 Object Oriented Programming C++ (CSE207)\
-https://sites.google.com/a/khu.ac.kr/mlvc/class/object_oriented_programming_2019_fall\
+https://sites.google.com/a/khu.ac.kr/mlvc/class/object_oriented_programming_2019_fall
 
 [CSE207] Object Oriented Programming (2019 Fall)
 담당교수: 배성호 
